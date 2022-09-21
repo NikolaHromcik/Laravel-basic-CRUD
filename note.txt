@@ -1,0 +1,3 @@
+For application to work correctly you need to make database named "larasmor" on phpmyadmin, or name database as you wish but change DB name in env file to
+match your DB. When you open app in IDE first do migrations and after that seed the DB so that your DB will be in proper shape to work with application.
+For any routes that you can check go to file web.php and check the routes there. 
